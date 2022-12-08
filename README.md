@@ -1,7 +1,7 @@
 <h1 align="center"> Discord Clone Tuned </h1>
 
 <h3 align="center">
-  <a href="">Acesse Meu App</a>
+  <a href="https://discordox.vercel.app">Acesse Meu App</a>
 </h3>
 
 <p align="center">
