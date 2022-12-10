@@ -10,4 +10,5 @@ const ServerName: React.FC = () => {
     </Container>
   );
 };
+
 export default ServerName;

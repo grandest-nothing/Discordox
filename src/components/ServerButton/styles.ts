@@ -24,6 +24,11 @@ export const Button = styled.button<Props>`
     height: 70px;
   }
 
+  .skull-img {
+    width: 40px;
+    height: 40px;
+  }
+
   &::before {
     width: 9px;
     height: 9px;
